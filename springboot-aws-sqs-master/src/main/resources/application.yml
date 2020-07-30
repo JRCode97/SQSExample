@@ -4,7 +4,7 @@ cloud:
       static: us-east-2
       auto: false
     credentials:
-      access-key: AKIAIORN2TYQ7NBMA64Q
-      secret-key: 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
+      access-key: 
+      secret-key: 
     end-point: 
-      uri: https://sqs.us-east-2.amazonaws.com/227471887092/SpringBootSQSExample
+      uri: 
